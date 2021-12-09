@@ -1,0 +1,26 @@
+//colors
+@import "./colors.scss";
+//headers:
+@import "../components/HeaderLogin/HeaderLogin.scss";
+@import "../components/HeaderHome/HeaderHome.scss";
+
+//login
+@import "../components/Login/Login.scss";
+
+//profiles
+@import "../components/Profiles/Profiles.scss";
+
+//banner
+@import "../components/BannerHome/BannerHome.scss";
+
+@import "./netflixCarousel.scss";
+
+//netflix slider
+@import "../components/NetflixSlider/Content.scss";
+
+@import "../components/NetflixSlider/Item.scss";
+@import "../components/NetflixSlider/Mark.scss";
+@import "../components/NetflixSlider/ShowDetailsButton.scss";
+@import "../components/NetflixSlider/SlideButton.scss";
+@import "../components/NetflixSlider/Slider.scss";
+@import "../components/NetflixSlider/SliderWrapper.scss";

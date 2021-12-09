@@ -1,0 +1,32 @@
+@import "./index.scss";
+@font-face {
+  font-family: "LiberationSans";
+  src: url("../assets/fonts/LiberationSans-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "LiberationSans";
+  src: url("../assets/fonts/LiberationSans-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  font-family: "LiberationSans" !important;
+  background-color: $dark !important;
+  h1 {
+    font-weight: bold !important;
+    color: $light;
+    font-size: 35px;
+  }
+
+  h2,
+  h3,
+  h4 {
+    color: $light;
+  }
+  p {
+    color: $light;
+  }
+}

@@ -1,0 +1,62 @@
+.menu {
+  top: -10px !important;
+  z-index: 20 !important;
+  width: 100%;
+  position: fixed !important;
+  padding-top: 10px;
+  height: 60px;
+  border: none !important;
+}
+
+.header {
+  background: transparent !important;
+  border: none !important;
+  &__logo {
+    padding-top: 12px !important;
+    width: 95px !important;
+  }
+  .selected {
+    color: $light;
+  }
+  &__img {
+    padding-top: 10px !important;
+    width: 25px !important;
+  }
+  h4 {
+    color: $grey-font;
+
+    &:hover {
+      color: $light;
+    }
+  }
+}
+//remove background color when de menu.item is active
+.ant-menu-item-active {
+  background-color: transparent !important;
+}
+
+//Remove border-bottom
+.ant-menu-horizontal > .ant-menu-item:hover::after,
+.ant-menu-horizontal > .ant-menu-submenu:hover::after,
+.ant-menu-horizontal > .ant-menu-item-active::after,
+.ant-menu-horizontal > .ant-menu-submenu-active::after,
+.ant-menu-horizontal > .ant-menu-item-open::after,
+.ant-menu-horizontal > .ant-menu-submenu-open::after,
+.ant-menu-horizontal > .ant-menu-item-selected::after,
+.ant-menu-horizontal > .ant-menu-submenu-selected::after {
+  border-bottom: none !important;
+  border-bottom-color: transparent !important;
+}
+
+.right {
+  position: fixed !important;
+  right: 0px;
+  float: right;
+  width: 200px;
+}
+
+.left {
+  position: fixed !important;
+  float: left;
+  width: 70%;
+}

@@ -1,0 +1,48 @@
+.banner-home {
+  z-index: -1;
+  height: 100vh;
+  background-size: cover;
+  &__dark {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 1) 0%,
+      rgba(0, 0, 0, 0) 50%,
+      rgb(0, 0, 0) 160%
+    );
+  }
+  &__content {
+    width: 50%;
+    position: relative;
+    padding-top: 100px;
+    padding-left: 50px;
+  }
+  &__logo {
+    width: 250px !important;
+    margin-bottom: 30px !important;
+  }
+
+  .banner-home__content-info {
+    background: rgba($color: $grey-font, $alpha: 0.5) !important;
+    border: none;
+    color: $light !important;
+    &:hover {
+      background: rgba($color: $grey, $alpha: 0.5) !important;
+      color: $light;
+    }
+  }
+
+  .banner-home__content-play {
+    border: none;
+    color: $dark !important;
+    &:hover {
+      background-color: $grey-font !important;
+    }
+  }
+}
+
+.subtitle {
+  padding-left: 50px;
+}

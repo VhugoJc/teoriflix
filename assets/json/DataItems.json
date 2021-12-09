@@ -1,0 +1,162 @@
+[
+    [
+        {
+            "id": 1,
+            "section": "section1",
+            "image": "/img/slider1.jpg",
+            "title": "Proposiciones y condicionales",
+            "description":"Ejercicios de presentaciones elaborados en la libreta",
+            "program":null,
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T1%20-%20Parcial1_TeoriaComputacional/T1_Parcial1_TeoriaComputacional.pdf?CT=1638753816313&OR=ItemsView"
+        },
+        {
+            "id": 2,
+            "section": "section1",
+            "image": "/img/slider2.jpg",
+            "title": "Reglas de inferencia",
+            "description":"Ejercicios de inferencia realizados en excel",
+            "program":null,
+            "info":"https://upslpedu-my.sharepoint.com/:x:/r/personal/180466_upslp_edu_mx1/_layouts/15/Doc.aspx?sourcedoc=%7BB8D0CD7C-6CA2-4323-89A2-6599E13C122C%7D&file=T2%20-%20Ejercicios%20reglas%20de%20inferecia.xlsx&action=default&mobileredirect=true"
+        },
+        {
+            "id": 3,
+            "section": "section1",
+            "image": "/img/slider3.jpg",
+            "title": "Proposiciones",
+            "description":"El programa busca los valores de verdad de cada preposición de dados algunos ejemplos por el programa, o también, el usuario puede ingresar la proposición que desea siempre",
+            "program":"https://replit.com/@180466/Propos#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T3%20-%20Programa%20proposiciones/A3-%20Programa%20proposiciones.pdf?CT=1638753989991&OR=ItemsView"
+        },
+        {
+            "id": 4,
+            "section": "section1",
+            "image": "/img/slider4.jpg",
+            "title": "Inferencia",
+            "description":"Programa que incluye unos ejercicios donde hay que elegir la respuesta correcta de inferencia.",
+            "program":null,
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T4_TComp_Programa_Inferencia/T4_TComp_Programa_Inferencia.pdf?CT=1638754100120&OR=ItemsView"
+        },
+        {
+            "id": 5,
+            "section": "section1",
+            "image": "/img/slider5.jpg",
+            "title": "Inducción",
+            "description":"Ejercicios de inducción realizados en la libreta",
+            "program":null,
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T5_TComp_Induccion/T5_TComp_Induccion.pdf?CT=1638755145580&OR=ItemsView"
+        },
+        {
+            "id": 6,
+            "section": "section1",
+            "image": "/img/slider6.jpg",
+            "title": "Alfabetos y cadenas",
+            "description":"Programa en el cual se ingresan hasta 3 alfabetos y los convierte en cadena",
+            "program":"https://teoria-computacional02.netlify.app/",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T6%20-%20Alfabetos%20y%20cadenas/T6%20-%20Alfabetos%20y%20cadenas.pdf?CT=1638755298159&OR=ItemsView"
+        },
+        {
+            "id": 7,
+            "section": "section1",
+            "image": "/img/slider7.jpg",
+            "title": "Lenguajes formales",
+            "description":"Programa en el cual se ingresan hasta 3 alfabetos y los convierte en lenguajes formales",
+            "program":"https://teoriacomputacional04.netlify.app/",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T7%20-%20Programa%20de%20lenguajes%20formales/T7%20-%20Programa%20de%20lenguajes%20formales.pdf?CT=1638755668287&OR=ItemsView"
+        }
+    ],
+    [
+        {
+            "id": 8,
+            "section": "section1",
+            "image": "/img/slider8.jpg",
+            "title": "Expresiones y gramáticas regulares",
+            "description":"se ingresan simbolos terminales y no terminales, el programa mostrará la gramática regular y derivaciones.",
+            "program":"https://replit.com/@180466/Gramaticas#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T8%20-%20Programa%20de%20expresiones%20y%20gram%C3%A1ticas%20regulares/T8%20-%20Programa%20de%20expresiones%20y%20gram%C3%A1ticas%20regulares.pdf?CT=1638755933551&OR=ItemsView"
+        },
+        {
+            "id": 9,
+            "section": "section2",
+            "image": "/img/slider9.jpg",
+            "title": "Lenguajes y gramáticas",
+            "description":": El programatiene dos funciones, las cuales da a elegir al usuario. Lenguajes o gramáticas",
+            "program":"https://replit.com/@180466/GeneradorGoL#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T9%20-%20Programa%20de%20lenguajes%20y%20gram%C3%A1ticas/T9%20-%20Programa%20de%20lenguajes%20y%20gram%C3%A1ticas.pdf?CT=1638756123232&OR=ItemsView"
+        },
+        {
+            "id": 10,
+            "section": "section2",
+            "image": "/img/slider10.jpg",
+            "title": "Transiciones",
+            "description":"En este programa nos encontraremos con 2 opciones, las cuales satisfarán las necesidades o requerimientos del programa pedido. ",
+            "program":"https://replit.com/@180466/MealyMoore#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T10%20-%20Reporte%20programa%20transiciones/T10%20-%20Reporte%20programa%20transiciones.pdf?CT=1638756610883&OR=ItemsView"
+        },
+        {
+            "id": 11,
+            "section": "section2",
+            "image": "/img/slider11.jpg",
+            "title": "AFD",
+            "description":"El programa tiene cuatro funciones, las cuales da a elegir al usuario",
+            "program":"https://replit.com/@180466/AFD#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T11%20-%20Programa%20AFD/T11%20-%20Programa%20AFD.pdf?CT=1638756672210&OR=ItemsView"
+        },
+        {
+            "id": 12,
+            "section": "section2",
+            "image": "/img/slider12.jpg",
+            "title": "AFD 2.0",
+            "description":"El programa tiene cuatro funciones, las cuales da a elegir al usuario.",
+            "program":"https://replit.com/@VhugoJc/tarea12#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T12%20-%20Programa%20AFD/T12%20-%20Programa%20AFD.pdf?CT=1638756853526&OR=ItemsView"
+        }       
+    ],
+    [
+        {
+            "id": 13,
+            "section": "section3",
+            "image": "/img/slider13.jpg",
+            "title": "AFN",
+            "description":"El programa tiene cuatro funciones, las cuales da a elegir al usuario",
+            "program":"https://replit.com/@180466/AFN#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T13%20-%20Programa%20AFN/T13%20-%20Programa%20AFN.pdf?CT=1638757372525&OR=ItemsView"
+        },
+        {
+            "id": 14,
+            "section": "section3",
+            "image": "/img/slider14.jpg",
+            "title": "Arboles y cadenas de derivación",
+            "description":" El programa tiene tres campos para que el usuario pueda llenar, El usuario debe de ingresar los símbolos terminales, ya sea letras o símbolos de operaciones",
+            "program":"https://arbol-cadenas-derivacion.herokuapp.com/",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T14%20-%20Programa%20%C3%81rboles%20y%20cadenas%20de%20derivaci%C3%B3n/T14%20-%20Programa%20%C3%81rboles%20y%20cadenas%20de%20derivaci%C3%B3n.pdf?CT=1638757522316&OR=ItemsView"
+        }, 
+        {
+            "id": 15,
+            "section": "section3",
+            "image": "/img/slider15.jpg",
+            "title": "AFD AFN",
+            "description":"El programa estádiseñado para recibir ciertos númeroscomo entrada, en los cuales dependiendocual sea la entrada en cada uno de los estadosy tipos de entrada, va a graficar de manera distinta los resultados.",
+            "program":"https://replit.com/@180466/AFN-AFD",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T15%20-%20AFN%20AFD/T15%20-%20AFN%20AFD%20.pdf?CT=1638757697581&OR=ItemsView"
+        },
+        {
+            "id": 16,
+            "section": "section3",
+            "image": "/img/slider16.jpg",
+            "title": "Autómata de pila",
+            "description":"El programa tiene como punto de partida el pedir al usuario los datos del autómata de pila que desee probar, preguntando por ejemplo el número de estados, el alfabeto, el numero de transiciones por estado, etc",            
+            "program":"https://replit.com/@180466/Pila#main.py",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T16%20-%20Programa%20Aut%C3%B3mata%20de%20Pila/T16%20-%20Programa%20Aut%C3%B3mata%20de%20Pila.pdf?CT=1638757921265&OR=ItemsView" 
+        },
+        {
+            "id": 17,
+            "section": "section3",
+            "image": "/img/slider17.jpg",
+            "title": "Máquina de Turing",
+            "description":"El programa tiene como punto de partida el pedir al usuario los datos de la máquina de Turing que desee probar.",
+            "program":"https://replit.com/@180466/Turing",
+            "info":"https://upslpedu-my.sharepoint.com/personal/180466_upslp_edu_mx1/Documents/Teoria%20Comp%20Proyecto/T17%20-%20Programa%20M%C3%A1quina%20de%20Turing/T17%20-%20Programa%20M%C3%A1quina%20de%20Turing.pdf?CT=1638758004225&OR=ItemsView"
+        } 
+    ]
+
+]
